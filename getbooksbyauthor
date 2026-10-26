@@ -1,0 +1,3 @@
+curl.exe -s "http://localhost:3000/api/books/author/Harper%20Lee"
+
+[{"isbn":"978-0-06-112008-4","title":"To Kill a Mockingbird","author":"Harper Lee","reviews":[{"username":"charlie","rating":5,"comment":"Powerful and moving."}]}]

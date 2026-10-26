@@ -1,0 +1,3 @@
+curl.exe -s "http://localhost:3000/api/books/978-1-4028-9462-6"
+
+[{"isbn":"978-1-4028-9462-6","title":"The Great Gatsby","author":"F. Scott Fitzgerald","reviews":[{"username":"alice","rating":5,"comment":"A timeless classic."}]}]

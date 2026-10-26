@@ -1,0 +1,3 @@
+curl.exe -s -X POST http://localhost:3000/api/books/978-0-14-044926-6/reviews -H "Content-Type: application/json" -d "{\"username\":\"newusercurl\",\"rating\":4,\"comment\":\"Very elegant and witty.\"}"
+
+{"message":"Review added successfully.","reviews":[{"username":"newuser","rating":4,"comment":"Very elegant and witty."},{"username":"newusercurl","rating":4,"comment":"Very elegant and witty."}]}

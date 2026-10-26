@@ -1,0 +1,3 @@
+curl.exe -s http://localhost:3000/api/books
+
+[{"isbn":"978-1-4028-9462-6","title":"The Great Gatsby","author":"F. Scott Fitzgerald","reviews":[{"username":"alice","rating":5,"comment":"A timeless classic."}]},{"isbn":"978-0-7432-7356-5","title":"The Catcher in the Rye","author":"J.D. Salinger","reviews":[{"username":"bob","rating":4,"comment":"A memorable coming-of-age story."}]},{"isbn":"978-0-06-112008-4","title":"To Kill a Mockingbird","author":"Harper Lee","reviews":[{"username":"charlie","rating":5,"comment":"Powerful and moving."}]},{"isbn":"978-0-14-044926-6","title":"Pride and Prejudice","author":"Jane Austen","reviews":[{"username":"newuser","rating":4,"comment":"Very elegant and witty."}]}]
